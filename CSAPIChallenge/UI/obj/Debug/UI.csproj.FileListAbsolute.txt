@@ -1,0 +1,364 @@
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\UI.dll.config
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\UI.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\UI.pdb
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Antlr3.Runtime.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\EntityFramework.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\EntityFramework.SqlServer.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Newtonsoft.Json.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Owin.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Net.Http.Formatting.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Helpers.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Http.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Http.WebHost.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Mvc.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Optimization.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Razor.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.WebPages.Deployment.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.WebPages.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.WebPages.Razor.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\WebGrease.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\EntityFramework.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\EntityFramework.SqlServer.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Helpers.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Mvc.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Optimization.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Razor.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.WebPages.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.WebPages.Deployment.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.WebPages.Razor.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Antlr3.Runtime.pdb
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Newtonsoft.Json.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Net.Http.Formatting.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Http.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\System.Web.Http.WebHost.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\obj\Debug\UI.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\obj\Debug\UI.pdb
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\UI.dll.config
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\UI.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\UI.pdb
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Antlr3.Runtime.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\EntityFramework.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\EntityFramework.SqlServer.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Owin.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Helpers.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Http.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Mvc.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Optimization.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Razor.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.WebPages.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\WebGrease.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\EntityFramework.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\EntityFramework.SqlServer.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Helpers.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Mvc.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Optimization.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Razor.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.WebPages.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Antlr3.Runtime.pdb
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Http.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Samir\CSChallenge\EndWithApiWorking\UI\obj\Debug\UI.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI\obj\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\UI.dll.config
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\UI.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Antlr3.Runtime.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\EntityFramework.SqlServer.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Owin.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Helpers.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Http.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Mvc.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Optimization.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.WebPages.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\WebGrease.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\EntityFramework.SqlServer.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Helpers.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Mvc.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Optimization.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.WebPages.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Antlr3.Runtime.pdb
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Http.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI\obj\Debug\UI.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI\obj\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\obj\Debug\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\obj\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\UI.dll.config
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Antlr3.Runtime.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\EntityFramework.SqlServer.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Helpers.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Http.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Mvc.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Optimization.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.WebPages.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\WebGrease.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\EntityFramework.SqlServer.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Helpers.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Mvc.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Optimization.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.WebPages.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Antlr3.Runtime.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Http.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\UI.dll.config
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Antlr3.Runtime.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\EntityFramework.SqlServer.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Helpers.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Http.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Mvc.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Optimization.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.WebPages.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\WebGrease.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\EntityFramework.SqlServer.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Helpers.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Mvc.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Optimization.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.WebPages.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Antlr3.Runtime.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Http.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\obj\Debug\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\obj\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\UI.dll.config
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Antlr3.Runtime.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\EntityFramework.SqlServer.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Helpers.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Http.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Mvc.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Optimization.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.WebPages.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\WebGrease.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\EntityFramework.SqlServer.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Helpers.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Mvc.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Optimization.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.WebPages.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Antlr3.Runtime.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Http.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\obj\Debug\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\obj\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache

@@ -1,0 +1,294 @@
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\UI.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Owin.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Http.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\EntityFramework.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\UI.pdb
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Http.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\EntityFramework.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\obj\Debug\UI.Tests.csprojResolveAssemblyReference.cache
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\End\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\UI.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Owin.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Http.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\EntityFramework.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\UI.pdb
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Http.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\EntityFramework.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\obj\Debug\UI.Tests.csprojResolveAssemblyReference.cache
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\EndWithApiWorking\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\UI.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Owin.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Http.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Http.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\obj\Debug\UI.Tests.csprojResolveAssemblyReference.cache
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\CSAPIChallenge\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Http.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Http.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\obj\Debug\UI.Tests.csprojResolveAssemblyReference.cache
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\CSAPIChallengeV1\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Http.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Http.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\obj\Debug\UI.Tests.csprojResolveAssemblyReference.cache
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\CSAPIChallengeV2\UI.Tests\obj\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\UI.Tests.dll.config
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\UI.Tests.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\UI.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Owin.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Http.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\UI.pdb
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Http.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\obj\Debug\UI.Tests.csprojResolveAssemblyReference.cache
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\obj\Debug\UI.Tests.dll
+C:\Samir\CSChallenge\CSAPIChallengeV3\UI.Tests\obj\Debug\UI.Tests.pdb

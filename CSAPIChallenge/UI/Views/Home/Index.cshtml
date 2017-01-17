@@ -1,0 +1,45 @@
+﻿@model IEnumerable<UI.Models.CSUser>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@ViewBag.Message</h2>
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)<br />
+            @Html.DisplayNameFor(model => model.Email)<br />
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th></th>
+    </tr>
+
+   @foreach (var item in Model)
+   {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)<br />
+            <small>@Html.DisplayFor(modelItem => item.Email)</small>
+            <br />
+            <small>@Html.DisplayFor(modelItem => item.Password)</small>
+        </td>
+        <td>
+            <div class="btn-toolbar">
+                <div class="btn-group">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.CSUserID }, new { @class = "btn btn-default" })
+                    @Html.ActionLink("Details", "Details", new { id = item.CSUserID }, new { @class = "btn btn-default" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CSUserID }, new { @class = "btn btn-default" })
+                </div>
+            </div>
+        </td>
+
+
+    </tr>
+   }
+
+</table>
+
+
+}
+

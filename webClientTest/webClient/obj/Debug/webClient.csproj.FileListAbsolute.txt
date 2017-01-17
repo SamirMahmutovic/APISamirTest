@@ -1,0 +1,22 @@
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClient\webClient\bin\Debug\webClient.exe.config
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClient\webClient\obj\Debug\webClient.csprojResolveAssemblyReference.cache
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\bin\Debug\webClient.exe.config
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\bin\Debug\webClient.exe
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\bin\Debug\webClient.pdb
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\bin\Debug\Newtonsoft.Json.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\bin\Debug\Newtonsoft.Json.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\obj\Debug\webClient.csprojResolveAssemblyReference.cache
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\obj\Debug\webClient.exe
+C:\Samir\Training\ASP MVC\QA Training\QAASPNETMVC\_DelegateLabs\13  Web API2\Assets\webClientTest\webClient\obj\Debug\webClient.pdb
+C:\Samir\CSChallenge\webClientTest\webClient\bin\Debug\webClient.exe.config
+C:\Samir\CSChallenge\webClientTest\webClient\obj\Debug\webClient.exe
+C:\Samir\CSChallenge\webClientTest\webClient\obj\Debug\webClient.pdb
+C:\Samir\CSChallenge\webClientTest\webClient\bin\Debug\webClient.exe
+C:\Samir\CSChallenge\webClientTest\webClient\bin\Debug\webClient.pdb
+C:\Samir\CSChallenge\webClientTest\webClient\bin\Debug\Newtonsoft.Json.dll
+C:\Samir\CSChallenge\webClientTest\webClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Samir\CSChallenge\webClientTest\webClient\bin\Debug\Newtonsoft.Json.xml
+C:\Samir\CSChallenge\webClientTest\webClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Samir\CSChallenge\webClientTest\webClient\obj\Debug\webClient.csprojResolveAssemblyReference.cache

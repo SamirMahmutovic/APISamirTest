@@ -1,0 +1,23 @@
+﻿body {
+    padding-top: 1px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    border-bottom: 1px solid #eee;
+    margin: 2px 2px;
+    background-color:rgba(0, 88, 167, 1);
+    color:rgba(254, 254, 254, 1);
+}
+
+.borders div{    
+    border-bottom:1px solid #999;
+    padding: 5px;
+}
