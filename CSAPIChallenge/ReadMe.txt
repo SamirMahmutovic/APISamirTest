@@ -14,36 +14,4 @@ To test API:
 
 
 
-Changes:
-V1.
-
-1. Code tided - removed vievs and models we do not need here
-2. Added some simple image (Try to find better one)
-
-V2.
-Repository helper calsses Names Changed to ISiteRepository and SQLSiteRepository
--  Added the following in AppStart\WebApiConfig
-
-            config.Routes.MapHttpRoute(
-
-                name: "DefaultApi2",
-
-                routeTemplate: "api/{controller}/{action}",
-
-                defaults: new { id = RouteParameter.Optional }
-
-
---- Tried to add this to view
-
-
-$(document).ready(function(){
-$.getJSON('http://localhost:50297/api/ApiCSUser/GetAllCSUsers').done(function (data){
-    $.each(data, function (key,item){
-        $('<li>, { text: formatItem(item)}).appentTo($('#GetAllCSUsers'));
-        });
-    });
-
-});
-
-But does not work
 
